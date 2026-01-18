@@ -134,6 +134,8 @@ export const publicAnonKey = "your-anon-key";
 
 ```
 Animated Expense Tracker/
+├──DATABASE
+├──SCHEMA.png
 ├── src/
 │   ├── App.tsx                      # Main application component and routing
 │   ├── main.tsx                     # React entry point
@@ -414,6 +416,6 @@ For licensing inquiries, please contact the project maintainer.
 
 ---
 
-**Built with ❤️ using React, TypeScript, and Supabase**
+**Built by [THARUN P](https://www.linkedin.com/in/tharun-p-4146b4318/) from (https://github.com/tharun242005)**
 
 © 2025 Animated Expense Tracker. All rights reserved.
