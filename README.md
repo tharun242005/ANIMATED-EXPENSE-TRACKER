@@ -400,7 +400,6 @@ For licensing inquiries, please contact the project maintainer.
 ## Contact & Support
 
 - **Live App**: [https://animated-expense-tracker.web.app/](https://animated-expense-tracker.web.app/)
-- **Figma Design**: [Original Design](https://www.figma.com/design/OHDUFVMc5fwtpjgOEyChPT/Animated-Expense-Tracker)
 
 ---
 
